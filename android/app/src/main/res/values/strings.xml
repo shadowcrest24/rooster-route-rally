@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rooster Route Rally</string>
+
+    <string name="brand_title">ROOSTER ROUTE\nRALLY</string>
+    <string name="brand_short">ROOSTER ROUTE</string>
+    <string name="brand_tagline">READ THE RHYTHM · CROSS THE ROAD</string>
+    <string name="loading_route">LOADING ROUTE</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_play_stage">PLAY STAGE %1$d</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_go">GO</string>
+    <string name="cta_dash">DASH</string>
+    <string name="cta_left">LEFT</string>
+    <string name="cta_right">RIGHT</string>
+    <string name="cta_next">NEXT</string>
+    <string name="cta_back">BACK</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_retry_run">RETRY RUN</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_claim">CLAIM</string>
+    <string name="cta_collect">COLLECT +%1$d RP</string>
+    <string name="cta_levels">LEVELS</string>
+    <string name="cta_missions">MISSIONS</string>
+    <string name="cta_rewards">REWARDS</string>
+    <string name="cta_collection">COLLECTION</string>
+    <string name="cta_tutorial">TUTORIAL</string>
+    <string name="cta_settings">SETTINGS</string>
+
+    <string name="title_tutorial">TUTORIAL</string>
+    <string name="title_levels">LEVELS</string>
+    <string name="title_rewards">REWARDS</string>
+    <string name="title_collection">COLLECTION</string>
+    <string name="title_missions">MISSIONS</string>
+    <string name="title_settings">SETTINGS</string>
+    <string name="subtitle_levels">FOUR THEMED ROUTES</string>
+    <string name="subtitle_rewards">VIRTUAL TIERS ONLY</string>
+    <string name="subtitle_collection">ROUTE BADGES</string>
+    <string name="subtitle_settings">CONTROLS AND READABILITY</string>
+
+    <string name="menu_hint">WATCH EACH LANE SIGNAL BEFORE YOU HOP ACROSS</string>
+    <string name="game_hint">PRESS THE CENTRE SIGNAL BUTTON TO HOP ONE LANE · SIDE BUTTONS SHIFT YOUR COLUMN</string>
+
+    <string name="timer_format">%1$02d:%2$02d</string>
+    <string name="count_of_format">%1$d / %2$d</string>
+    <string name="count_active_format">%1$d ACTIVE</string>
+    <string name="points_format">%1$d PTS</string>
+    <string name="route_points_format">%1$d RP</string>
+    <string name="reward_points_format">+%1$d RP</string>
+    <string name="tier_missing_format">NEED %1$d RP</string>
+    <string name="gain_seconds_format">+%1$d S</string>
+    <string name="crossing_format">CROSSING %1$d / %2$d</string>
+    <string name="crossing_cleared_format">CROSSING %1$d OF %2$d CLEARED</string>
+    <string name="rush_format">RUSH %1$d / %2$d</string>
+    <string name="stage_line_format">STAGE %1$d · %2$s</string>
+    <string name="stage_stats_format">BEST %1$d · BADGES %2$d / %3$d</string>
+    <string name="stage_locked_notice">CLEAR STAGE %1$d TO OPEN</string>
+    <string name="badge_source_format">STAGE %1$d · LANE %2$d OR HIGHER</string>
+    <string name="badge_hidden_format">STAGE %1$d</string>
+    <string name="badge_unknown">NOT COLLECTED YET</string>
+    <string name="label_new_best">NEW BEST %1$d</string>
+    <string name="mission_prefix_format">MISSION · %1$s</string>
+
+    <string name="band_finish">FINISH</string>
+    <string name="band_roost">ROOST</string>
+    <string name="lane_clear">LANE %1$d CLEAR</string>
+    <string name="lane_blocked">LANE %1$d BLOCKED</string>
+
+    <string name="label_best">BEST</string>
+    <string name="label_route_points">ROUTE PTS</string>
+    <string name="label_score">SCORE</string>
+    <string name="label_lanes">LANES</string>
+    <string name="label_badges">BADGES</string>
+    <string name="label_streak">STREAK</string>
+    <string name="label_claimed">CLAIMED</string>
+    <string name="label_collected">COLLECTED</string>
+    <string name="label_stages">STAGES</string>
+    <string name="label_completed">COMPLETED</string>
+
+    <string name="state_cleared">CLEARED</string>
+    <string name="state_open">OPEN</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_claimed">CLAIMED</string>
+    <string name="state_ready">READY</string>
+    <string name="state_collected">COLLECTED</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="outcome_cleared">ROUTE CLEARED</string>
+    <string name="outcome_timeout">ROUTE CLOSED</string>
+    <string name="outcome_collision">CLIPPED ON LANE %1$d</string>
+    <string name="mission_none_this_run">NO MISSION PROGRESS THIS RUN</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_hint">THE ROAD IS WAITING</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_hint">BADGES, STAGES, MISSIONS AND ROUTE POINTS WILL BE CLEARED</string>
+
+    <string name="rewards_empty">CROSS LANES TO EARN ROUTE POINTS</string>
+    <string name="rewards_disclaimer">VIRTUAL REWARDS ONLY · NO REAL MONEY</string>
+    <string name="collection_empty">NOTHING COLLECTED YET · BADGES SIT IN THE EXPOSED LANES</string>
+    <string name="missions_none_done">NO MISSIONS FINISHED YET</string>
+    <string name="settings_footer">FULLY OFFLINE · NO NETWORK · NO PURCHASES</string>
+
+    <string name="setting_contrast">HIGH CONTRAST LANES</string>
+    <string name="setting_contrast_hint">BRIGHTER LANE FILLS AND THICKER SIGNAL BARS</string>
+    <string name="setting_hints">RHYTHM HINTS</string>
+    <string name="setting_hints_hint">OFF HIDES THE SIGNAL BARS AND ADDS A HARD MODE BONUS</string>
+    <string name="setting_side">CONTROL SIDE</string>
+    <string name="setting_side_hint">MIRROR THE FLOATING CONTROL BAR</string>
+    <string name="setting_reset">RESET PROGRESS</string>
+    <string name="setting_reset_hint">CLEAR BADGES, STAGES, MISSIONS AND ROUTE POINTS</string>
+
+    <string name="tutorial_1_title">READ THE LANE SIGNAL</string>
+    <string name="tutorial_1_body">EVERY LANE CARRIES A BAR ON ITS EDGE. CYAN MEANS THE GAP IS WIDE, MAGENTA MEANS A VEHICLE IS CLOSE.</string>
+    <string name="tutorial_2_title">HOP ONE LANE FORWARD</string>
+    <string name="tutorial_2_body">PRESS THE CENTRE SIGNAL BUTTON TO HOP INTO THE NEXT LANE. THE SIDE BUTTONS SHIFT YOUR COLUMN.</string>
+    <string name="tutorial_3_title">GRAB ROUTE BADGES</string>
+    <string name="tutorial_3_body">BADGES SIT IN EXPOSED CELLS. EACH ONE ADDS FOUR SECONDS, SCORE AND A FEATHER CHARGE.</string>
+    <string name="tutorial_4_title">PERCH AND BANK YOUR STREAK</string>
+    <string name="tutorial_4_body">HAY BALES IN THE MEDIAN BANK YOUR STREAK FOR EXTRA SECONDS AND A BONUS SCORE.</string>
+    <string name="tutorial_done">TUTORIAL COMPLETE</string>
+
+    <string name="stage_dawn">DAWN VILLAGE ROAD</string>
+    <string name="stage_market">MARKET STREET</string>
+    <string name="stage_harbor">HARBOR BYPASS</string>
+    <string name="stage_express">NEON EXPRESSWAY</string>
+
+    <string name="mission_badges">COLLECT 10 BADGES</string>
+    <string name="mission_badges_hint">GRAB BADGES ON ANY ROUTE</string>
+    <string name="mission_lanes">CLEAR 20 LANES IN ONE RUN</string>
+    <string name="mission_lanes_hint">KEEP HOPPING WITHOUT A CRASH</string>
+    <string name="mission_time">FINISH WITH 20 SECONDS LEFT</string>
+    <string name="mission_time_hint">BANK TIME WITH BADGES AND PERCHES</string>
+    <string name="mission_streak">REACH STREAK x3</string>
+    <string name="mission_streak_hint">HOP JUST AHEAD OF MOVING TRAFFIC</string>
+    <string name="mission_dash">USE FEATHER DASH 3 TIMES</string>
+    <string name="mission_dash_hint">CHARGE IT WITH THREE BADGES</string>
+    <string name="mission_stage">CLEAR STAGE 2</string>
+    <string name="mission_stage_hint">FINISH ALL THREE CROSSINGS</string>
+
+    <string name="tier_bronze">BRONZE PLAQUE</string>
+    <string name="tier_dawn">DAWN CREST</string>
+    <string name="tier_silver">SILVER PLAQUE</string>
+    <string name="tier_harbor">HARBOR CREST</string>
+    <string name="tier_gold">GOLD PLAQUE</string>
+    <string name="tier_express">EXPRESSWAY CREST</string>
+
+    <string name="badge_dawn_bell">DAWN BELL</string>
+    <string name="badge_mill_gate">MILL GATE</string>
+    <string name="badge_barn_lantern">BARN LANTERN</string>
+    <string name="badge_cart_wheel">CART WHEEL</string>
+    <string name="badge_field_post">FIELD POST</string>
+    <string name="badge_sunrise_flag">SUNRISE FLAG</string>
+    <string name="badge_market_gate">MARKET GATE</string>
+    <string name="badge_spice_crate">SPICE CRATE</string>
+    <string name="badge_brass_scale">BRASS SCALE</string>
+    <string name="badge_awning_stripe">AWNING STRIPE</string>
+    <string name="badge_coin_basket">COIN BASKET</string>
+    <string name="badge_clock_tower">CLOCK TOWER</string>
+    <string name="badge_harbor_light">HARBOR LIGHT</string>
+    <string name="badge_rope_coil">ROPE COIL</string>
+    <string name="badge_anchor_pin">ANCHOR PIN</string>
+    <string name="badge_gull_feather">GULL FEATHER</string>
+    <string name="badge_tide_marker">TIDE MARKER</string>
+    <string name="badge_crane_arm">CRANE ARM</string>
+    <string name="badge_neon_arrow">NEON ARROW</string>
+    <string name="badge_lane_seven">LANE SEVEN</string>
+    <string name="badge_signal_core">SIGNAL CORE</string>
+    <string name="badge_chrome_grille">CHROME GRILLE</string>
+    <string name="badge_pulse_ring">PULSE RING</string>
+    <string name="badge_night_crest">NIGHT CREST</string>
+
+    <string name="cd_emblem">ROUTE EMBLEM</string>
+    <string name="cd_badges">ROUTE BADGES COLLECTED</string>
+    <string name="cd_pause">PAUSE THE RUN</string>
+    <string name="cd_rooster">ROOSTER</string>
+    <string name="cd_route_badge">ROUTE BADGE</string>
+</resources>
